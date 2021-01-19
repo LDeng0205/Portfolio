@@ -1,4 +1,13 @@
 About
+Hey there! Thank you for visiting my website!
+
+I am currently pursuing an undergraduate degree in EECS at UC Berkeley. I am a 
+competitive programmer and a full-stack developer. I am especially interested in 
+Artificial Intelligence and Machine Learning. 
+
+Aside from technology, I am also passionate about music (being a pianist and trombonist),
+tennis, and photography. Contact me by email if you have something exciting to share with me; 
+I promise that I am an interesting person!
 
 Projects
 github link
@@ -6,7 +15,7 @@ scribbl
 jsmoku
 HIMCM
 
-
 Contact
 arthurdeng0205@hotmail.com
 langxing.deng@berkeley.edu
++1 647-915-6378
