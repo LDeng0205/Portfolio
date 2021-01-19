@@ -130,6 +130,10 @@ button:hover {
     flex-direction: column;
 }
 
+.section .contact h1 {
+    font-size: 28pt;
+}
+
 .section .contact ul {
     list-style-type: none;
 }
